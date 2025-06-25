@@ -1,0 +1,3 @@
+```js
+if (uSkid) { getDropped(); }
+```
